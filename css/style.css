@@ -29,11 +29,11 @@
     transition: transform 1s;
     transform-style: preserve-3d;
 }
-
+/*  version dos  */
 .frente, .dorso{
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(45deg, #8e3678, #341c25);
+    background-image: linear-gradient(45deg, #272025, #f8f8f8);
     position: absolute;
     top: 0;
     left: 0;
